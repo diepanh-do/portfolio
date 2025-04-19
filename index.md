@@ -1,5 +1,5 @@
 # Biographical Information
-Full Name: Diepanh Do
+Full Name: Diepanh Do\
 Major: Physics and Data Science
 Expected Graduation Year: 2028
 Univeristy: Simmons University
