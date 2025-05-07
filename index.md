@@ -21,5 +21,5 @@ Link: https://github.com/diepanh-do/stat228_mini_project_2.
 
 ## Final Project - "How Computers Classify Colors?"
 This project aims to understand how a small part of Computer Vision: A beginner approach to how computer analyzes and indentifies colors. It uses Random Forests - a ML method to stimulate the process of classifying colors.\
-Link (Project): https://github.com/diepanh-do/stat_228_final_project.
+Link (Project): https://github.com/diepanh-do/stat_228_final_project.\
 Link (Presentation): https://shorturl.at/DxX3V.
